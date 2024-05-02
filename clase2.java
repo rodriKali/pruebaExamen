@@ -3,7 +3,7 @@ package hartp;
 public class clase2 {
 
 	public clase2() {
-		System.out.println("Hola mundo")	
+		System.out.println("Hola mundo que tal esta")	
 		}
 
 }
